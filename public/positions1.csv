@@ -1,0 +1,21 @@
+﻿Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+X96627910,Mom Yield,SGOV,ISHARES TR 0-3 MNTH TREASRY,155,$100.67,+$0.02,$15603.85,+$3.10,+0.01%,+$15.76,+0.10%,31.06%,$15588.09,$100.57,Margin,
+X96627910,Mom Yield,BLV,VANGUARD BD INDEX FDS LONG TERM BOND,82,$69.3625,-$0.22,$5687.72,-$18.04,-0.32%,-$1293.16,-18.53%,11.32%,$6980.88,$85.13,Margin,
+X96627910,Mom Yield,BNDX,VANGUARD CHARLOTTE FDS TOTAL INTL BD ETF,108,$48.57,-$0.10,$5245.56,-$10.80,-0.21%,-$994.14,-15.94%,10.44%,$6239.70,$57.78,Margin,
+X96627910,Mom Yield,BND,VANGUARD BD INDEX FDS TOTAL BND MRKT,41,$74.23,-$0.03,$3043.43,-$1.23,-0.05%,+$27.37,+0.90%,6.06%,$3016.06,$73.56,Margin,
+X96627910,Mom Yield,AGG,ISHARES CORE US AGGREGATE BOND ETF,30,$100.13,-$0.02,$3003.90,-$0.60,-0.02%,-$455.10,-13.16%,5.98%,$3459.00,$115.30,Margin,
+X96627910,Mom Yield,61776CFC6,MORGAN STANLEY BK N A CD 4.40000% 11/27/2029,3000,$100.119,-$0.001,$3003.57,-$0.03,-0.01%,+$3.57,+0.11%,5.98%,$3000.00,--,Margin,
+X96627910,Mom Yield,48040PQB4,JONESBORO ST BK JONESBORO LA CD 4.60000% 11/20/2034,3000,$100.016,-$0.001,$3000.48,-$0.03,-0.01%,+$0.48,+0.01%,5.97%,$3000.00,--,Margin,
+X96627910,Mom Yield,SPAXX**,HELD IN MONEY MARKET,,,,$2566.67,,,,,5.11%,,,Cash,
+X96627910,Mom Yield,12527CJN3,CFG CMNTY BK LUTHERVILLE MD CD 4.55000% 12/30/2031,2000,$100.044,-$0.002,$2000.88,-$0.04,-0.01%,+$0.88,+0.04%,3.98%,$2000.00,--,Margin,
+X96627910,Mom Yield,12527CJR4,CFG CMNTY BK LUTHERVILLE MD CD 4.50000% 12/28/2029,2000,$100.043,-$0.001,$2000.86,-$0.02,-0.01%,+$0.86,+0.04%,3.98%,$2000.00,--,Margin,
+X96627910,Mom Yield,NKE,NIKE INC CLASS B COM NPV,27,$61.81,-$0.79,$1668.87,-$21.33,-1.27%,-$243.63,-12.74%,3.32%,$1912.50,$70.83,Margin,
+X96627910,Mom Yield,VICI,VICI PPTYS INC COM,50,$28.08,-$0.03,$1404.00,-$1.50,-0.11%,+$23.50,+1.70%,2.80%,$1380.50,$27.61,Margin,
+X96627910,Mom Yield,12527CJL7,CFG CMNTY BK LUTHERVILLE MD CD 4.50000% 12/30/2026,1000,$100.059,-$0.002,$1000.59,-$0.02,-0.01%,+$0.59,+0.05%,1.99%,$1000.00,--,Margin,
+X96627910,Mom Yield,12527CJP8,CFG CMNTY BK LUTHERVILLE MD CD 4.50000% 12/29/2028,1000,$100.054,-$0.002,$1000.54,-$0.02,-0.01%,+$0.54,+0.05%,1.99%,$1000.00,--,Margin,
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com."
+
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets."
+
+"Date downloaded Jan-31-2026 6:58 p.m ET"

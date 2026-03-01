@@ -1,0 +1,18 @@
+﻿Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+Z20097860,Risky Trades,AMD,ADVANCED MICRO DEVICES INC,7.5,$236.73,-$15.45,$1775.47,-$115.88,-6.13%,+$1126.20,+173.45%,37.85%,$649.27,$86.57,Cash,
+Z20097860,Risky Trades,AMZN,AMAZON.COM INC,3,$239.30,-$2.43,$717.90,-$7.29,-1.01%,+$337.58,+88.76%,15.30%,$380.32,$126.77,Cash,
+Z20097860,Risky Trades,USD,PROSHARES ULTRA SEMICONDUCTORS,6,$58.53,-$2.21,$351.18,-$13.26,-3.64%,+$264.15,+303.51%,7.49%,$87.03,$14.51,Cash,
+Z20097860,Risky Trades,PYPG,THEMES ETF TR LEVERAGE SHS 2X,36,$8.95,-$0.13,$322.20,-$4.68,-1.44%,-$106.15,-24.79%,6.87%,$428.35,$11.90,Cash,
+Z20097860,Risky Trades,DUOL,DUOLINGO INC CL A COM,2.4,$134.06,-$5.41,$321.74,-$12.99,-3.88%,-$282.42,-46.75%,6.86%,$604.16,$251.73,Cash,
+Z20097860,Risky Trades,AMZU,DIREXION SHS ETF TR DIREXION 2X SHAR,8,$37.01,-$0.76,$296.08,-$6.08,-2.02%,+$101.12,+51.86%,6.31%,$194.96,$24.37,Cash,
+Z20097860,Risky Trades,ADBG,THEMES ETF TR LEVERAGE SHS 2X,38.577,$7.03,+$0.08,$271.19,+$3.08,+1.15%,-$128.80,-32.20%,5.78%,$399.99,$10.37,Cash,
+Z20097860,Risky Trades,SPAXX**,HELD IN MONEY MARKET,,,,$173.32,,,,,3.69%,,,Cash,
+Z20097860,Risky Trades,DUOG,THEMES ETF TR LEVERAGE SHS 2X,25,$6.5345,-$0.5655,$163.36,-$14.14,-7.97%,-$162.77,-49.91%,3.48%,$326.13,$13.05,Cash,
+Z20097860,Risky Trades,MELI,MERCADOLIBRE INC COM USD0.001,0.075,$2147.79,-$70.35,$161.08,-$5.28,-3.18%,+$8.14,+5.32%,3.43%,$152.94,$2039.20,Cash,
+Z20097860,Risky Trades,KMLI,KRANESHARES TRUST 2X LONG MELI,9,$15.297,-$1.0097,$137.67,-$9.09,-6.20%,+$16.62,+13.73%,2.93%,$121.05,$13.45,Cash,
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com."
+
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets."
+
+"Date downloaded Jan-31-2026 6:58 p.m ET"
